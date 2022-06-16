@@ -148,6 +148,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    /* display: flex; */
+    /* flex-wrap: nowrap; */
 }
 
 .online-reputation-management {
