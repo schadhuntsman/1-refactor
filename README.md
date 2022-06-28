@@ -1,2 +1,3 @@
 # schadhuntsman.github.io
- module1challenge
+ 
+ Our challenge for this week was to retaylor and refactor the code to make things work and look nicer. 
