@@ -53,18 +53,19 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-    float: left;
+    /* float: left;
     margin-right: 25px;
     float: right;
-    margin-left: 25px;
+    margin-left: 25px; */
 }
 
-.float-left {
+.search-engine-img,
+.social-media-marketing-img {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.online-rep-img {
     float: right;
     margin-left: 25px;
 }
